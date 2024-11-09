@@ -11,7 +11,7 @@
 
 - 👨‍💻 Si queres saber mas sobre mi, podes entrar aca [https://juandidonato.github.io/juan-di-donato/](https://juandidonato.github.io/juan-di-donato/)
 
-- 💬 Preguntame sobre **Linux y python <3**
+- 💬 Preguntame sobre **Linux y python ♥️:**
 
 - 📫 Podes contactarme atravez de **juan_didonato@protonmail.com**
 
