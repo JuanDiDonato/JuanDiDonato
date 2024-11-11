@@ -9,7 +9,7 @@
 
 - 🔭 Actualmente estoy trabajando en [Adtomic](https://github.com/adtomiclabs)
 
-- 👨‍💻 Si queres saber mas sobre mi, podes entrar aca [https://juandidonato.github.io/juan-di-donato/](https://juandidonato.github.io/juan-di-donato/)
+- 👨‍💻 Si queres saber mas sobre mi, podes entrar aca [https://juandidonato.github.io/web-site/](https://juandidonato.github.io/web-site/)
 
 - 💬 Preguntame sobre **Linux y python <3**
 - 💬 Preguntame sobre **Linux y python ♥️:**
