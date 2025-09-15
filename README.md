@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 Actualmente estoy trabajando en [Adtomic](https://github.com/adtomiclabs)
+- 🔭 Actualmente estoy trabajando de forma independiente
 
 - 👨‍💻 Si queres saber mas sobre mi, podes entrar aca [https://juandidonato.github.io/web-site/](https://juandidonato.github.io/web-site/)
 
