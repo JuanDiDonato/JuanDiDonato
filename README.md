@@ -9,14 +9,13 @@
 
 - 🔭 Actualmente estoy trabajando de forma independiente
 
-- 💬 Preguntame sobre **Linux y python ♥️:**
+- 💬 Preguntame sobre **Linux y Python ♥️**
 
-- 📫 Podes contactarme atravez de **juan_didonato@protonmail.com**
+- 📫 Podes contactarme atravez de **juan_didonato@protonmail.com** o **didonatojuan7@gmail.com**
 
 
 <h3 align="left">Sociales:</h3>
 <p align="left">
-<a href="https://dev.to/dido" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dido" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/juandidonato" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juandidonato" height="30" width="40" /></a>
 </p>
 
