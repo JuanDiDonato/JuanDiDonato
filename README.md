@@ -9,8 +9,6 @@
 
 - 🔭 Actualmente estoy trabajando de forma independiente
 
-- 👨‍💻 Si queres saber mas sobre mi, podes entrar aca [https://juandidonato.github.io/web-site/](https://juandidonato.github.io/web-site/)
-
 - 💬 Preguntame sobre **Linux y python ♥️:**
 
 - 📫 Podes contactarme atravez de **juan_didonato@protonmail.com**
