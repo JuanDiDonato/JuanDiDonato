@@ -11,8 +11,7 @@
 
 - 💬 Preguntame sobre **Linux y Python ♥️**
 
-- 📫 Podes contactarme atravez de **juan_didonato@protonmail.com** o **didonatojuan7@gmail.com**
-
+- 📫 Podes contactarme atravez de **juan_didonato@protonmail.com**
 
 <h3 align="left">Sociales:</h3>
 <p align="left">
